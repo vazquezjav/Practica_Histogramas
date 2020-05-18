@@ -1,0 +1,5 @@
+﻿  Principal.cpp
+  The contents of <filesystem> are available only with C++17 or later.
+C:\Users\javie\source\repos\Practica_Test\Practica_Test\Principal.cpp(82,18): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\javie\source\repos\Practica_Test\Practica_Test\Principal.cpp(83,18): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  Practica_Test.vcxproj -> C:\Users\javie\source\repos\Practica_Test\x64\Debug\Practica_Test.exe
